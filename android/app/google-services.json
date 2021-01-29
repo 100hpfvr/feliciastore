@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435766705731",
+    "firebase_url": "https://feliciastore-1c142.firebaseio.com",
+    "project_id": "feliciastore-1c142",
+    "storage_bucket": "feliciastore-1c142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435766705731:android:24a68c539e62971a439ef6",
+        "android_client_info": {
+          "package_name": "com.store.feliciastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435766705731-3qiu3ldjcljgppcsivfh72unsq9b21fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPglv9v7ppNDmaCmPCYw8R9BSpNPO4-EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435766705731-3qiu3ldjcljgppcsivfh72unsq9b21fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
